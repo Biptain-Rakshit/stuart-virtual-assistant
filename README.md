@@ -43,7 +43,8 @@
 
 ## 📫 Contact
 
-Built with ❤️ by [Biptain Rakshit](https://www.linkedin.com/in/biptain-rakshit/)  
+Built with ❤️ by [Biptain Rakshit](https://www.linkedin.com/in/biptain-rakshit-6a7b16264) 
+
 📧 Email: biptainr@gmail.com
 
 
